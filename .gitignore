@@ -1,0 +1,11 @@
+.jupyter_ystore.db
+.cache/
+.config/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.yarn/
+.virtual_documents/
+.ipynb_checkpoints/
+*.zip
