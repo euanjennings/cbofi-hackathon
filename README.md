@@ -35,7 +35,7 @@ The challenge involved analysing financial data to build a **fraud detection cla
 
 Developed in the [NayaOne](https://www.nayaone.com/) collaborative JupyterLab sandbox — a real-time multi-user data environment provided for the hackathon.
 
-## Author
+## Authors
 
 [Euan Jennings](https://github.com/euanjennings)
 [Robert Shanahan](https://github.com/robshan5)
